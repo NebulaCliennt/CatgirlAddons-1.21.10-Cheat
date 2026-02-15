@@ -1,0 +1,20 @@
+[
+  {
+    "modid":"${modID}",
+    "name": "CatgirlRoutes",
+    "description": "Meow",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "https://github.com/WompWatr/CatgirlAddons/",
+    "updateUrl": "",
+    "authorList": [
+      "catgirlwatr"
+    ],
+    "credits": "Odin",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": [
+      "od", "odinclient"
+    ]
+  }
+]
