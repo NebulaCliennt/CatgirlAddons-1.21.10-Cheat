@@ -1,5 +1,3 @@
-itheserenity was here (certified ratter)
+The BEST Skyblock Addons mod for Skyblock - now ported to 1.21.10 :3
 
-https://discord.gg/8NMEAhNRgd
- 
- 
+Feel free to make an issue if you run into any bugs.
